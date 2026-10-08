@@ -1,0 +1,5 @@
+Parent before: []
+Inside thread: ['thread']
+Parent after thread: ['thread']
+Inside process: ['thread', 'process']
+Parent after process: ['thread']
